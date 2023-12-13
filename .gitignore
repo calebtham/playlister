@@ -1,0 +1,5 @@
+spotify_million_playlist_dataset*
+spotify_million_playlist_dataset/*
+
+.DS_Store
+/**/.DS_Store
