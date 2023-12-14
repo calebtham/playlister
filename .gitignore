@@ -3,3 +3,11 @@ spotify_million_playlist_dataset/*
 
 .DS_Store
 /**/.DS_Store
+
+venv
+venv/*
+
+.env
+
+/**/.cache
+*.json
