@@ -12,3 +12,6 @@ venv/*
 /**/.cache
 *.json
 *.zip
+
+playlists_embeddings.csv
+playlists_embeddings_only.csv
